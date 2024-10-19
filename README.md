@@ -12,7 +12,7 @@
 ![image]()  
 ## 3、扩展功能  
 #### 对一个输入ASII编码字符串，对其进行加密，得到以下结果  
-![image]()  
+![image](https://github.com/douge999/S-DES/blob/main/image/210db2c3a0d53c9c1fc450b321b092a8.png)  
 ## 4、暴力测试
 #### 对已知的对应的密文和明文，使用暴力破解的方法找到正确的秘钥  
 #### 测试结果如下  
