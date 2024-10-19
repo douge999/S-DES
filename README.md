@@ -7,7 +7,7 @@
 ## 2、交叉测试  
 #### 我与另一个小组对10111100，相同秘钥1111000110对其加密  
 #### 我的结果  
-![image]()  
+![image](https://github.com/douge999/S-DES/blob/main/image/456869632dae6b4a361249f12a14c0c9.png)  
 #### 另一个小组结果  
 ![image](https://github.com/douge999/S-DES/blob/main/image/39859bd4ffa69e35a1c0dd481de787d4.png)  
 ## 3、扩展功能  
