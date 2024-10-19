@@ -7,7 +7,7 @@
 ## 2、交叉测试  
 #### 我与另一个小组对10111100，相同秘钥1111000110对其加密  
 #### 我的结果  
-![image](https://github.com/douge999/S-DES/blob/main/image/456869632dae6b4a361249f12a14c0c9.png)  
+![image](https://github.com/douge999/S-DES/blob/main/image/5a887829484e6f69972ca41005d6825e.png)
 #### 另一个小组结果  
 ![image](https://github.com/douge999/S-DES/blob/main/image/47274b76fdb30dfaf4cadaad615fac62.png)
 #### 结果相同
