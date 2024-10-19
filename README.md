@@ -10,6 +10,7 @@
 ![image](https://github.com/douge999/S-DES/blob/main/image/456869632dae6b4a361249f12a14c0c9.png)  
 #### 另一个小组结果  
 ![image](https://github.com/douge999/S-DES/blob/main/image/39859bd4ffa69e35a1c0dd481de787d4.png)  
+#### 结果相同
 ## 3、扩展功能  
 #### 对一个输入ASII编码字符串，对其进行加密或者解密，得到以下结果  
 ![image](https://github.com/douge999/S-DES/blob/main/image/210db2c3a0d53c9c1fc450b321b092a8.png)  
